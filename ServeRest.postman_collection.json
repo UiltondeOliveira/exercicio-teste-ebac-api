@@ -373,13 +373,13 @@
 							}
 						],
 						"url": {
-							"raw": "{{local}}/usuarios/{{id}}",
+							"raw": "{{local}}/usuarios/a1b2C3D4e5f6G7h8j9K0",
 							"host": [
 								"{{local}}"
 							],
 							"path": [
 								"usuarios",
-								"{{id}}"
+								"a1b2C3D4e5f6G7h8j9K0"
 							]
 						}
 					},
